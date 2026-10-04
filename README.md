@@ -97,12 +97,12 @@ See `/dashboard/screenshots/` for page previews, or open `Churn_Dashboard.pbix` 
 
 ```
 ├── data/
-│   └── European_Bank.csv                        # Raw dataset
+│   └── European_Bank.csv                         # Raw dataset
 │   └── bank_churn_cleaned.csv                    # Cleaned + segmented dataset
 ├── notebooks/
 │   └── Churn_analysis.ipynb                      # Python EDA notebook
 ├── dashboard/
-│   └── Churn_Dashboard.pbix                      # Power BI dashboard
+│   └── Churn_Analytics_Dashboard.pbix            # Power BI dashboard
 │   └── screenshots/                              # Dashboard page exports
 ├── reports/
 │   └── Churn_Analytics_Research_Paper.pdf        # Full research paper
